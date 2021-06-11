@@ -1,0 +1,22 @@
+{
+    "name": "fredbradley/trailingslashit",
+    "type": "project",
+    "description": "Brings in a couple of useful WordPress functions to any other PHP project",
+    "keywords": [
+        "wp",
+        "wordpress",
+        "trailingslashit",
+        "rtrim",
+        "slashes",
+        "slash"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "files": [
+            "functions.php"
+        ]
+    }
+}
