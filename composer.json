@@ -16,7 +16,7 @@
     },
     "autoload": {
         "files": [
-            "functions.php"
+            "trailingslashit.php"
         ]
     }
 }
