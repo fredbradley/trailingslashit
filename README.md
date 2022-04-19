@@ -4,3 +4,7 @@ Really, nothing that clever. Two functions lifted out of the [WordPress source c
 
 This packages adds `trailingslashit(string $var)` and `untrailingslashit(string $var)` as high level functions, if they don't already exist. 
 
+## Installation
+```
+composer require fredbradley/trailingslashit
+```
